@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@NyLaurent](https://github.com/NyLaurent)
 
-Project Link: [https://github.com/yourusername/face-recognition](https://github.com/yourusername/face-recognition)
+Project Link: [https://github.com/NyLaurent/face-recognition](https://github.com/NyLaurent/face-recognition)
 
 ---
 
