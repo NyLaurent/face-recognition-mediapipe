@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@NyLaurent](https://github.com/NyLaurent)
 
-Project Link: [https://github.com/NyLaurent/face-recognition](https://github.com/NyLaurent/face-recognition)
+Project Link: [https://github.com/NyLaurent/face-recognition-mediapipe](https://github.com/NyLaurent/face-recognition-mediapipe)
 
 ---
 
